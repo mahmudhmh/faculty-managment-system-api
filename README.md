@@ -1,4 +1,4 @@
-# Faculty Management System README
+# Faculty Management System
 
 This Faculty Management System is built using Node.js, Express.js, and Mongoose. It allows users to manage students and courses within a faculty. The system provides various functionalities including getting all students, getting a student by ID, adding a new student, deleting a student by ID, getting all courses, getting a course by ID, deleting a course by ID, and adding a new course.
 
